@@ -174,7 +174,7 @@ p:not(:last-child) {
   padding: 10px 20px;
   justify-content: center;
   font-weight: 600;
-  background-color: var(--color-gray);
+  background-color: var(--color-mint);
   border-radius: var(--border-radius);
 }
 
